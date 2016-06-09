@@ -1,0 +1,9 @@
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe.config
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.latinTranslatorForm.resources
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Properties.Resources.resources
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.GenerateResource.Cache
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.exe
+C:\Users\Christina\Desktop\Visual Studio Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.pdb
